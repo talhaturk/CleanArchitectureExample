@@ -12,5 +12,7 @@
     <Project Path="CleanArchitecture.Persistance/CleanArchitecture.Persistance.csproj" />
     <Project Path="CleanArchitecture.Presentation/CleanArchitecture.Presentation.csproj" />
   </Folder>
-  <Folder Name="/test/" />
+  <Folder Name="/test/">
+    <Project Path="CleanArchitecture.UnitTest/CleanArchitecture.UnitTest.csproj" Id="1406756b-8459-4e27-a519-8078c965cc9d" />
+  </Folder>
 </Solution>
